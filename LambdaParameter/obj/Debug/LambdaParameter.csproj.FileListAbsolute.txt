@@ -1,0 +1,21 @@
+C:\Users\denni\OneDrive\2019.09 PROG 260\Programs\011 - Potpourri\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.exe.config
+C:\Users\denni\OneDrive\2019.09 PROG 260\Programs\011 - Potpourri\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.exe
+C:\Users\denni\OneDrive\2019.09 PROG 260\Programs\011 - Potpourri\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.pdb
+C:\Users\denni\OneDrive\2019.09 PROG 260\Programs\011 - Potpourri\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.csprojAssemblyReference.cache
+C:\Users\denni\OneDrive\2019.09 PROG 260\Programs\011 - Potpourri\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.exe
+C:\Users\denni\OneDrive\2019.09 PROG 260\Programs\011 - Potpourri\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.pdb
+C:\Users\Soonae\Desktop\Soon BC HomeWork\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.exe.config
+C:\Users\Soonae\Desktop\Soon BC HomeWork\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.exe
+C:\Users\Soonae\Desktop\Soon BC HomeWork\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.pdb
+C:\Users\Soonae\Desktop\Soon BC HomeWork\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.csproj.AssemblyReference.cache
+C:\Users\Soonae\Desktop\Soon BC HomeWork\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.csproj.CoreCompileInputs.cache
+C:\Users\Soonae\Desktop\Soon BC HomeWork\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.exe
+C:\Users\Soonae\Desktop\Soon BC HomeWork\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.pdb
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.exe.config
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.exe
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\bin\Debug\LambdaParameter.pdb
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.csproj.AssemblyReference.cache
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.csproj.SuggestedBindingRedirects.cache
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.csproj.CoreCompileInputs.cache
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.exe
+C:\Users\pyn78\Desktop\soon homework\PROG 260 C#\Mo10 Art of Delegation\LambdaParameter\LambdaParameter\obj\Debug\LambdaParameter.pdb
